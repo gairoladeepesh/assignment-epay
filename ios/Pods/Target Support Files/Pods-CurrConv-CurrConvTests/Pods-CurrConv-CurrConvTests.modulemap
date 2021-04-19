@@ -1,0 +1,6 @@
+module Pods_CurrConv_CurrConvTests {
+  umbrella header "Pods-CurrConv-CurrConvTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
